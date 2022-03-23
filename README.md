@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="CleberSilvaComputer">
 <h1 align="center">Hi there 👋, I'm Paulo Mello</h1>
-<h3 align="center">A Frontend developer focused on maintain web and mobile applications using React/Next and React Native.</h3>
+<h3 align="center">A Frontend developer focused on maintain web and mobile applications using React and React Native.</h3>
  <div>
   <a href="https://github.com/PauloMello99"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloMello99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
